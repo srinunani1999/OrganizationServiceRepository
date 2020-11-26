@@ -1,0 +1,17 @@
+2020-11-24 12:17:53,884 Application started. Press Ctrl+C to shut down.
+2020-11-24 12:17:53,902 Hosting environment: Development
+2020-11-24 12:17:53,906 Content root path: E:\FTE-DOCS(CTS)\Static Core Projects\OrganizationService
+2020-11-24 12:18:03,235 Http Get request Initiated
+2020-11-24 12:18:03,236 successfully got details
+2020-11-24 12:18:19,887 Http Get request Initiated
+2020-11-24 12:18:19,888 successfully got details
+2020-11-24 12:18:30,190 Http get request initiated with 1
+2020-11-24 12:18:30,191 Found Matching Organization
+2020-11-24 12:18:39,059 HttpPost Request Initiated for Id 0
+2020-11-24 12:18:39,059 Model state is  valid for Id 0
+2020-11-24 12:18:48,174 Http Get request Initiated
+2020-11-24 12:18:48,576 successfully got details
+2020-11-24 12:19:04,724 HttpPost Request Initiated for Id 0
+2020-11-24 12:19:04,724 Model state is  valid for Id 0
+2020-11-24 12:19:13,427 Http Get request Initiated
+2020-11-24 12:19:13,427 successfully got details
