@@ -17,6 +17,8 @@ namespace OrganizationService.Repositories
             new Organization(){Id=3,OrganizationName="HOH",TotalDonations="20000"},
             new Organization(){Id=4,OrganizationName="green homes",TotalDonations="400000"},
             new Organization(){Id=5,OrganizationName="peoples home",TotalDonations="50000"},
+            new Organization(){Id=6,OrganizationName="Vortex",TotalDonations="60000"},
+            
             }; 
 
         }
